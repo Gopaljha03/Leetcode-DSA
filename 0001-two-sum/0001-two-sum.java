@@ -8,13 +8,7 @@ class Solution {
                 }
             }
         }
-        throw new RuntimeException("No Solution Found");
+        return  new int[] {-1,-1};
     }
-    public static void main(String args[]){
-        Solution solution = new Solution();
-        int [] nums = {3,2,4};
-        int target = 6;
-        int[] result = solution.twoSum(nums,target);
-        System.out.println("Indices:[" + result[0] +"," + result[1] + "]");
-    }
+    
 }
