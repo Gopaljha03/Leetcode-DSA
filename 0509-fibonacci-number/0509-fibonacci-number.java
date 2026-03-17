@@ -1,5 +1,14 @@
 class Solution {
     public int fib(int n){
+        if(n == 0 || n ==1)return n;
+        int ans1 = fib(n-1);
+        int ans2 = fib(n-2);
+        return ans1+ans2;
+
+    }
+}
+/*class Solution {
+    public int fib(int n){
         if(n<=1)return n;
         int dp[]= new int[n+1];
         dp[0] = 0;
@@ -10,4 +19,4 @@ class Solution {
         return dp[n];
 
     }
-}
+}*/
