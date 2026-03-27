@@ -21,6 +21,7 @@ DSA
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -72,4 +73,12 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
