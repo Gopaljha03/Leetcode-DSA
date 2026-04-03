@@ -22,6 +22,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -78,6 +79,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
