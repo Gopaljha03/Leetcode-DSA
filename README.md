@@ -8,6 +8,7 @@ DSA
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1017-convert-to-base-2](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1017-convert-to-base-2/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
