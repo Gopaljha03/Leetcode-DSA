@@ -1,22 +1,37 @@
 class Solution {
     public int trap(int[] height) {
         int n = height.length;
-        if(n == 0)return 0;
-        int[] prefixMax = new int[n];
-        int[] suffixMax = new int[n];
-
-        prefixMax[0] = height[0];
-        for(int i = 1; i<n;i++){
-            prefixMax[i] = Math.max(prefixMax[i-1], height[i]);
+        int leftmax[] = new int[n];
+        int rightmax[] = new int[n];
+        leftmax[0] = height[0];
+        for(int i =1; i <n;i++){
+            leftmax[i] = Math.max(leftmax[i-1],height[i]);
         }
-        suffixMax[n-1] = height[n-1];
+        rightmax[n-1] = height[n-1];
         for(int i = n-2; i>=0; i--){
-            suffixMax[i] =  Math.max(suffixMax[i+1], height[i]);
+            rightmax[i] = Math.max(rightmax[i+1],height[i]);
         }
-        int total = 0;
-        for(int i = 0; i <n;i++){
-            total += Math.min(prefixMax[i], suffixMax[i])- height[i];
+        int water = 0; 
+        for(int i =0; i <n;i++){
+            water += Math.min(leftmax[i], rightmax[i])-height[i];
         }
-        return total;
+        return water;
     }
 }
+/*class Solution {
+    public int trap(int[] height) {
+        int n = height.length;
+        int totalwater = 0;
+        for(int i = 0; i <n;i++){
+            int leftmax = 0, rightmax =0;
+            for(int j = 0;j <=i;j++){
+                leftmax = Math.max(leftmax, height[j]);
+            }
+            for(int j = i ;j<n;j++){
+                rightmax = Math.max(rightmax, height[j]);
+            }
+            totalwater += Math.min(leftmax,rightmax)-height[i];
+        }
+        return totalwater;
+    }
+}*/
