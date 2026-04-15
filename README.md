@@ -24,6 +24,7 @@ DSA
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -42,16 +43,19 @@ DSA
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0509-fibonacci-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -60,6 +64,7 @@ DSA
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
