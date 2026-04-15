@@ -29,6 +29,7 @@ DSA
 | [0084-largest-rectangle-in-histogram](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -36,6 +37,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -102,4 +104,16 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
