@@ -22,6 +22,7 @@ DSA
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0039-combination-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
@@ -90,6 +91,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -124,4 +126,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
