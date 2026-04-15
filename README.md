@@ -55,6 +55,7 @@ DSA
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0509-fibonacci-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -64,6 +65,7 @@ DSA
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -87,6 +89,7 @@ DSA
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
