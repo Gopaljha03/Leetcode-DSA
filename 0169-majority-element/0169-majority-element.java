@@ -13,14 +13,6 @@ class Solution {
                 count--;
             }
         }
-        count = 0;
-        for(int num : nums){
-            if(num == candidate)count++;
-        }
-       
-        if(count > nums.length/2 ){
-            return candidate;
-        }
-        return -1;
+        return candidate;
     }
 }
