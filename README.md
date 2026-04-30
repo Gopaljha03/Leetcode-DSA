@@ -34,6 +34,7 @@ DSA
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -62,6 +63,7 @@ DSA
 | [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
