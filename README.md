@@ -8,6 +8,7 @@ DSA
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0396-rotate-function](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1017-convert-to-base-2](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1017-convert-to-base-2/) | Medium |
 ## Linked List
@@ -36,6 +37,7 @@ DSA
 | [0198-house-robber](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0396-rotate-function](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
@@ -64,6 +66,7 @@ DSA
 | [0070-climbing-stairs](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0396-rotate-function](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
