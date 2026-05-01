@@ -37,6 +37,7 @@ DSA
 | [0198-house-robber](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -45,6 +46,7 @@ DSA
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,16 +131,27 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
