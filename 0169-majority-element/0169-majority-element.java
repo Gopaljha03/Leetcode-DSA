@@ -8,7 +8,7 @@ class Solution {
             if(map.get(num) > n/2){
                 return num;            }
         }
-        return -1;
+        return 0;
     }
 }
 /*class Solution {
