@@ -1,6 +1,23 @@
 class Solution {
     public int majorityElement(int[] nums) {
         int n = nums.length;
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int num : nums) {
+            int count = map.getOrDefault(num, 0) + 1;
+            map.put(num, count);
+
+            if (count > n / 2) {
+                return num;
+            }
+        }
+
+        return 0; // won't reach here (majority always exists)
+    }
+}
+/*class Solution {
+    public int majorityElement(int[] nums) {
+        int n = nums.length;
         HashMap<Integer, Integer>map = new HashMap<>();
         for(int num : nums){
             map.put(num , map.getOrDefault(num , 0)+1);
@@ -11,7 +28,7 @@ class Solution {
         return 0;
     }
 }
-/*class Solution {
+class Solution {
     public int majorityElement(int[] nums) {
         int n = nums.length;
         int candidate = 0;
