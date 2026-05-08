@@ -29,6 +29,7 @@ DSA
 | [0040-combination-sum-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0046-permutations/) | Medium |
+| [0075-sort-colors](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -89,6 +90,7 @@ DSA
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -152,6 +154,7 @@ DSA
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
