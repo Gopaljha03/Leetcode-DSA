@@ -46,6 +46,7 @@ DSA
 | [0643-maximum-average-subarray-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0733-flood-fill/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@ DSA
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
