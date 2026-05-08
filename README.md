@@ -53,6 +53,7 @@ DSA
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -103,6 +104,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -122,6 +124,7 @@ DSA
 | [0005-longest-palindromic-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Backtracking
