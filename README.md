@@ -11,6 +11,7 @@ DSA
 | [0396-rotate-function](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1017-convert-to-base-2](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1017-convert-to-base-2/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ DSA
 | [0904-fruit-into-baskets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
@@ -68,6 +70,7 @@ DSA
 | [0567-permutation-in-string](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -124,6 +127,7 @@ DSA
 | [0904-fruit-into-baskets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Heap (Priority Queue)
@@ -169,6 +173,7 @@ DSA
 | [0724-find-pivot-index](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
