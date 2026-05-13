@@ -59,6 +59,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -117,6 +118,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -146,6 +148,7 @@ DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0076-minimum-window-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
