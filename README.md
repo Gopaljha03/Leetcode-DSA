@@ -54,6 +54,7 @@ DSA
 | [1004-max-consecutive-ones-iii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -177,6 +178,7 @@ DSA
 | [0930-binary-subarrays-with-sum](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
