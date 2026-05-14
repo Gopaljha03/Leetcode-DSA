@@ -1,5 +1,23 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
+        HashMap<Integer, Integer>map = new HashMap<>();
+        map.put(0,1);
+        int currsum = 0;
+        int count = 0;
+        for(int num: nums){
+            currsum +=num;
+
+            if(map.containsKey(currsum - goal)){
+                count+= map.get(currsum-goal);
+            }
+            map.put(currsum, map.getOrDefault(currsum, 0)+1);
+        }
+        return count;
+    }
+}
+/*SLIDING WINDOW
+class Solution {
+    public int numSubarraysWithSum(int[] nums, int goal) {
         return atmost(nums,goal)- atmost(nums,goal-1);
         
     }
@@ -19,4 +37,4 @@ class Solution {
         }
         return count;
     }
-}
+}*/
