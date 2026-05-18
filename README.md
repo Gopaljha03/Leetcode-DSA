@@ -31,6 +31,7 @@ DSA
 | [0040-combination-sum-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0046-permutations/) | Medium |
+| [0053-maximum-subarray](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -99,6 +100,7 @@ DSA
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -201,6 +203,7 @@ DSA
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
