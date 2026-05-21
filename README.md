@@ -63,6 +63,7 @@ DSA
 | [1248-count-number-of-nice-subarrays](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
@@ -111,6 +112,7 @@ DSA
 | [0396-rotate-function](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -266,4 +268,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Gopaljha03/Leetcode-DSA/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 <!---LeetCode Topics End-->
